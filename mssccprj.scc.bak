@@ -1,0 +1,29 @@
+SCC = This is a Source Code Control file
+
+[fft.sln]
+SCC_Aux_Path = "\\cmserver\sourcesafe\"
+SCC_Project_Name = "$/research_work/spectrogram_unit", IONBAAAA
+
+[fft.vcproj]
+SCC_Aux_Path = "\\cmserver3\SourceSafe\V6.0C\VSS"
+SCC_Project_Name = "$/ResearchWork/AudioSegmentation", QWBAAAAA
+
+[kw_spectrogram.sln]
+SCC_Aux_Path = "\\cmserver\sourcesafe\"
+SCC_Project_Name = "$/research_work/spectrogram_unit", IONBAAAA
+
+[kw_CQ_spectrogram.sln]
+SCC_Aux_Path = "\\cmserver\sourcesafe\"
+SCC_Project_Name = "$/research_work/spectrogram_unit", IONBAAAA
+
+[CQ_spectrogram_units.sln]
+SCC_Aux_Path = "\\cmserver\sourcesafe\"
+SCC_Project_Name = "$/research_work/CQ_spectrogram_units", KHFFAAAA
+
+[BayesMultinomial.sln]
+SCC_Aux_Path = "\\cmserver3\SourceSafe\V6.0C\VSS"
+SCC_Project_Name = "$/ResearchWork/BayesMultinomial", OLAAAAAA
+
+[AudioSegmentation.sln]
+SCC_Aux_Path = "\\cmserver3\SourceSafe\V6.0C\VSS"
+SCC_Project_Name = "$/AudioSegmentation", IIDAAAAA
